@@ -9,25 +9,25 @@
   <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Coding Sami" width="600">
 </p>
 
-<h3 align="center">💡 Turning Data into Insights | Building Web Experiences | Exploring AI</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-blue?style=for-the-badge&logo=googlemaps"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Loves-Coding%20%26%20Creativity-orange?style=for-the-badge"/>
-</p>
+<h3 align="center">✨ Turning Data into Insights | Building Web Experiences | Exploring AI ✨</h3>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
 ✨ Hello! I'm **Sami Noor Saifi**, a passionate **Software Engineer, Web Developer, and Data Analyst** who enjoys transforming ideas into real-world applications.
 
-💻 I specialize in **Python development, data analysis, and full-stack web technologies**, combining logic with creativity to build useful systems.
+🔭 Building a **Face Recognition Attendance System** with Python, exploring real-world AI and automation.
 
-🚀 My work often involves **Machine Learning, automation, and data visualization**, helping turn raw data into meaningful insights.
+🧠 Learning **C for core logic, HTML for structure, and Python for intelligent systems**.
 
-📚 I love exploring new technologies and continuously improving my skills in **algorithms, AI, and modern development tools.**
+💻 **Software Engineer | Web Developer | Data Analyst** passionate about turning ideas into practical solutions.
+
+📊 Working with **Machine Learning, data analysis, and visualization** to transform data into insights.
+
+🎨 Blending **creativity with technology** — from sketches and poetry to UI concepts and applications.
+
+📚 Constantly growing through **Data Structures, Algorithms, Web Development, and AI fundamentals**.
 
 ---
 
