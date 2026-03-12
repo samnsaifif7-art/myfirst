@@ -10,6 +10,9 @@
 </p>
 
 <h3 align="center">✨ Turning Data into Insights | Building Web Experiences | Exploring AI ✨</h3>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=samnsaife&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
 
 ---
 
@@ -25,17 +28,12 @@
 
 ---
 
-# 🔭 Current Projects
-
-🚧 Currently building and improving projects such as:
-
-- 🧠 **Smart Drowsiness Detecting Seat Belt**  
-- 🎓 **College Predictor using Machine Learning**  
-- ⏱️ **Stopwatch Application**  
-- 🏥 **Patient Care Database System**  
-- 🩺 **Post Pregnancy Diabetes Predictor**
-
-These projects focus on **AI, data-driven decision systems, and real-world problem solving.**
+### 🤝 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/samnsaife/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+ <a href="mailto:samnsaifiF17@gmail.com" target="blank">
+  <img src="" alt="Gmail" height="30" width="40" />
+</a>
 
 ---
 
@@ -66,66 +64,22 @@ These projects focus on **AI, data-driven decision systems, and real-world probl
 
 ---
 
-# 🧰 Tools & Frameworks
+## 🚀 Project Highlights
 
-💻 Development Tools
+🧠 **AI & Machine Learning**  
+Face Recognition Attendance System, Smart Drowsiness Detecting Seat Belt, College Predictor, and Post Pregnancy Diabetes Predictor.
 
-- VS Code  
-- Git & GitHub  
-- MySQL  
-- PowerBI  
+🌐 **Web Development**  
+Netflix Clone and interactive front-end projects built with **HTML, CSS, and JavaScript**.
 
-📈 Data & Visualization
+📊 **Data & Analytics**  
+Statistical data analysis projects using **Scilab, R, and Python**.
 
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Streamlit  
-- PowerBI  
+⚙️ **Algorithms & Problem Solving**  
+Implemented **graph algorithms, scheduling problems, and core DSA concepts**.
 
-🤖 AI & Computer Vision
-
-- OpenCV  
-- Machine Learning models  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samnsaife&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnsaife&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samnsaife&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🧠 Smart Drowsiness Detecting Seat Belt
-AI-powered safety system that detects driver drowsiness and encourages seat belt usage.
-
-### 🎓 College Predictor
-Machine learning project predicting college admission chances based on academic metrics.
-
-### ⏱️ Stopwatch
-Lightweight application demonstrating timing functions and GUI interaction.
-
-### 🏥 Patient Care Database System
-Database-driven healthcare management system for storing and retrieving patient data.
-
-### 🩺 Post Pregnancy Diabetes Predictor
-ML model designed to predict diabetes risks after pregnancy.
+🧪 **Python Experiments & Utilities**  
+Automation scripts, GUI tools like **Stopwatch**, web scraping, and the **Patient Care Database System**.
 
 ---
 
@@ -152,23 +106,12 @@ ML model designed to predict diabetes risks after pregnancy.
 
 </p>
 
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=samnsaife&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
 
 ---
-
-# ⚡ Developer Quote
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
-
-<h3 align="center">⭐ Thanks for visiting my GitHub profile! ⭐</h3>
 
 <p align="center">
 💻 Keep Building • 🚀 Keep Learning • 🌍 Keep Innovating
