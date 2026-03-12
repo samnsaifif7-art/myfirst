@@ -32,7 +32,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/samnsaife/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
  <a href="mailto:samnsaifiF17@gmail.com" target="blank">
-  <img src="" alt="Gmail" height="30" width="40" />
+  <img src="https://github.com/samnsaifif7-art/icons/blob/332381fb313dec3705dfd3cdf7bf5d046d3dd0c4/pngwing.com.png" alt="Gmail" height="30" width="40" />
 </a>
 
 ---
@@ -83,36 +83,6 @@ Automation scripts, GUI tools like **Stopwatch**, web scraping, and the **Patien
 
 ---
 
-# 🎨 Fun Facts
-
-✨ I enjoy blending **logic with creativity**  
-✍️ Sometimes express ideas through **poetry and sketches**  
-🧠 Fascinated by **AI and intelligent systems**  
-🌍 Passionate about building **technology that solves real problems**
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/samnsaife/">
-<img src="https://img.shields.io/badge/LinkedIn-Sami%20Noor%20Saifi-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:samnsaifiF17@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
-
----
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
----
-
-<p align="center">
-💻 Keep Building • 🚀 Keep Learning • 🌍 Keep Innovating
-</p>
