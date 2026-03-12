@@ -15,18 +15,12 @@
 
 # 🚀 About Me
 
-✨ Hello! I'm **Sami Noor Saifi**, a passionate **Software Engineer, Web Developer, and Data Analyst** who enjoys transforming ideas into real-world applications.
-
-🔭 Building a **Face Recognition Attendance System** with Python, exploring real-world AI and automation.
-
-🧠 Learning **C for core logic, HTML for structure, and Python for intelligent systems**.
-
-💻 **Software Engineer | Web Developer | Data Analyst** passionate about turning ideas into practical solutions.
-
-📊 Working with **Machine Learning, data analysis, and visualization** to transform data into insights.
-
-🎨 Blending **creativity with technology** — from sketches and poetry to UI concepts and applications.
-
+✨ Hello! I'm **Sami Noor Saifi**, a passionate **Software Engineer, Web Developer, and Data Analyst** who enjoys transforming ideas into real-world applications.<br>
+🔭 Building a **Face Recognition Attendance System** with Python, exploring real-world AI and automation.<br>
+🧠 Learning **C for core logic, HTML for structure, and Python for intelligent systems**.<br>
+💻 **Software Engineer | Web Developer | Data Analyst** passionate about turning ideas into practical solutions.<br>
+📊 Working with **Machine Learning, data analysis, and visualization** to transform data into insights.<br>
+🎨 Blending **creativity with technology** — from sketches and poetry to UI concepts and applications.<br>
 📚 Constantly growing through **Data Structures, Algorithms, Web Development, and AI fundamentals**.
 
 ---
