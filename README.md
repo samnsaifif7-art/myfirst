@@ -9,13 +9,6 @@
 
 ### ✨ Turning Data into Insights | Building Web Experiences | Exploring AI ✨
 
-<a href="https://www.linkedin.com/in/samnsaife/">
-  <img src="https://github.com/samnsaifif7-art/icons/blob/7daf15d5a70c3859955ecf27073fac352e0a4b67/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
-</a>
-<a href="mailto:samnsaifiF17@gmail.com">
-  <img src="https://github.com/samnsaifif7-art/icons/blob/7daf15d5a70c3859955ecf27073fac352e0a4b67/pngwing.com.png" alt="Gmail" height="30" width="40">
-</a>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=samnsaife&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/samnsaife)
 
 </div>
@@ -36,7 +29,7 @@ class SamiNoorSaifi:
     def currently(self):
         return {
             "building"  : "Face Recognition Attendance System 🧠", etc...
-            "learning"  : ["C (core logic)", "AI/ML systems", "Data Structures & Algorithms"],
+            "learning"  : ["Python", "Logic", "AI/ML systems", "Data Structures & Algorithms"],
             "exploring" : "Intelligent automation & AI-powered applications",
         }
 
@@ -75,24 +68,6 @@ Upload any PDF and get a clean, intelligent summary in seconds. Built with NLP p
 
 ---
 
-### 🎙️ [Virtual Voice Assistant](https://github.com/samnsaife/Virtual-Voice-Assistant)
-> *Speech Recognition | WolframAlpha | Wikipedia | TTS*
-
-A Python-powered voice assistant that listens, understands, and responds — querying WolframAlpha and Wikipedia in real-time with text-to-speech output.
-
-`Python` `Speech Recognition` `WolframAlpha API` `TTS`
-
----
-
-### 🎬 [Netflix Clone](https://github.com/samnsaife/Netflix-Clone)
-> *Front-End | HTML | CSS | JavaScript*
-
-A pixel-perfect, fully responsive Netflix UI clone showcasing strong front-end fundamentals and attention to design detail.
-
-`HTML` `CSS` `JavaScript` `Responsive Design`
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -119,7 +94,6 @@ A pixel-perfect, fully responsive Netflix UI clone showcasing strong front-end f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samnsaife&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnsaife&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samnsaife&theme=tokyonight&hide_border=true" height="170"/>
@@ -149,9 +123,14 @@ A pixel-perfect, fully responsive Netflix UI clone showcasing strong front-end f
 
 <div align="center">
 
-**Thanks for stopping by! Let's build something meaningful together 🚀**
+**Thanks for stopping by! Let's build something meaningful together 🚀 Connect me at**
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samnsaife/)
-[![Email](https://img.shields.io/badge/-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samnsaifiF17@gmail.com)
+
+<a href="https://www.linkedin.com/in/samnsaife/">
+  <img src="https://github.com/samnsaifif7-art/icons/blob/7daf15d5a70c3859955ecf27073fac352e0a4b67/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+</a>
+<a href="mailto:samnsaifiF17@gmail.com">
+  <img src="https://github.com/samnsaifif7-art/icons/blob/7daf15d5a70c3859955ecf27073fac352e0a4b67/pngwing.com.png" alt="Gmail" height="30" width="40">
+</a>
 
 </div>
