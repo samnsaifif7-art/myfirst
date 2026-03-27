@@ -10,8 +10,12 @@
 ### ✨ Turning Data into Insights | Building Web Experiences | Exploring AI ✨
 
 [![Profile Views](https://komarev.com/ghpvc/?username=samnsaife&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/samnsaife)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samnsaife-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samnsaife/)
-[![Gmail](https://img.shields.io/badge/Gmail-samnsaifiF17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samnsaifiF17@gmail.com)
+<a href="https://www.linkedin.com/in/samnsaife/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40">
+</a>
+<a href="mailto:samnsaifiF17@gmail.com">
+  <img src="https://github.com/samnsaifif7-art/icons/blob/7daf15d5a70c3859955ecf27073fac352e0a4b67/pngwing.com.png" alt="Gmail" height="30" width="40">
+</a>
 
 </div>
 
