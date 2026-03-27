@@ -127,8 +127,8 @@ Upload any PDF and get a clean, intelligent summary in seconds. Built with NLP p
 
 
 <a href="https://www.linkedin.com/in/samnsaife/">
-  <img src="https://github.com/samnsaifif7-art/icons/blob/7daf15d5a70c3859955ecf27073fac352e0a4b67/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
-</a>
+  <img src="https://github.com/samnsaifif7-art/icons/blob/7daf15d5a70c3859955ecf27073fac352e0a4b67/linked-in-alt.svg" alt="LinkedIn" height="35" width="45">
+</a>&nbsp;
 <a href="mailto:samnsaifiF17@gmail.com">
   <img src="https://github.com/samnsaifif7-art/icons/blob/7daf15d5a70c3859955ecf27073fac352e0a4b67/pngwing.com.png" alt="Gmail" height="30" width="40">
 </a>
