@@ -42,27 +42,24 @@ class SamiNoorSaifi:
 ## 🚀 Featured Projects
 
 ### 🧠 [Face Recognition Attendance System](https://github.com/samnsaife/Face-Recognition-Attendance-System)
-> *Python + React | OpenCV | Flask | Real-time AI*
 
-Automatically marks attendance via live face detection. Records a short video per entry with **date, time, and geolocation** to prevent proxy. Secure, fast, and production-ready for academic or organisational use.
+Auto-marks attendance via face detection with video, timestamp & location logging to prevent proxy.
 
 `Python` `React.js` `OpenCV` `Flask` `Computer Vision`
 
 ---
 
 ### 🤖 [Hirehead.ai](https://github.com/samnsaife/Hirehead.ai)
-> *AI Recruitment Assistant | Python | Streamlit | NLP*
 
-Scrapes job descriptions from URLs, matches them against your resume, visualises compatibility scores, and auto-generates professional application emails using AI. Your personal job-hunting co-pilot.
+AI recruitment assistant — scrapes job posts, matches resumes, and generates application emails automatically.
 
 `Python` `Streamlit` `BeautifulSoup` `NLP` `AI API` `TypeScript`
 
 ---
 
 ### 📄 [SummarifyAI](https://github.com/samnsaife/SummarifyAI)
-> *Smart PDF Summarizer | Streamlit | NLP*
 
-Upload any PDF and get a clean, intelligent summary in seconds. Built with NLP pipelines for accurate text extraction and condensation.
+Upload any PDF and get an intelligent summary instantly using NLP pipelines.
 
 `Python` `Streamlit` `NLP` `PDF Processing`
 
