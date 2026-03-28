@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&duration=4000&pause=750&color=FAF9F6&center=true&width=900&height=70&lines=Hi+👋+I'm+Sami+Noor+Saifi;Software+Engineer+💻;Web+Developer+🌐;Data+Analyst+📊;Building+Intelligent+Systems+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&duration=4000&pause=750&color=FAF9F6&center=true&width=900&height=70&lines=Hi+✌🏻+I'm+Sami+Noor+Saifi;Software+Engineer+💻;Web+Developer+🕸️;Data+Analyst+📈;Building+Intelligent+Systems+👾)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Coding Sami" width="600">
